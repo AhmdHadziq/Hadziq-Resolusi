@@ -1,0 +1,4 @@
+Resulusi Hadziq
+- Belajar Html dan css
+- belajar git dan github
+- belajar php dan javascript
