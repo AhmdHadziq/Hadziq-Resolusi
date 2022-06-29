@@ -3,4 +3,4 @@ Resulusi Hadziq
 - belajar git dan github
 - belajar php dan javascript
 - Next buat portofolio
-- cari projek 1
+- Cari project baru
