@@ -2,3 +2,5 @@ Resulusi Hadziq
 - Belajar Html dan css
 - belajar git dan github
 - belajar php dan javascript
+- Next buat portofolio
+- cari projek 1
